@@ -19,8 +19,8 @@
 
 <div align="center">
   <a href="https://github.com/BarbaraM1">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=duribeiro&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duribeiro&theme=dracula&hide_border=false&&layout=compact"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=BarbaraM1&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BarbaraM1&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
@@ -39,9 +39,12 @@
 
 <div align="center">
   
-  ![Snake animation](https://github.com/BarbaraM1/BarbaraM1/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
   
 </div>
+
+
+
 
 
 
